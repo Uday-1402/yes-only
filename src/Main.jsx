@@ -47,7 +47,7 @@ const Main = () => {
 
   return (
     <>
-    <div className = "newDiv" id ="newDiv">Pata Tha Hamko!!!</div>
+    <div className = "newDiv" id ="newDiv">Yeeeeeeeeeeeee!!!</div>
         <div className="container">
         <h3 className='question'>Mai Pizza manga lu?</h3>
           <div className="image-container">
