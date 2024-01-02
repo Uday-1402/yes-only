@@ -49,7 +49,7 @@ const Main = () => {
     <>
     <div className = "newDiv" id ="newDiv">Pata Tha Hamko!!!</div>
         <div className="container">
-        <h3 className='question'>Do You Love Me?</h3>
+        <h3 className='question'>Mai Pizza manga lu?</h3>
           <div className="image-container">
           <img id = "img" src="/cute.gif" alt="imagesss" /> 
           </div>
