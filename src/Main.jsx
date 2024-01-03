@@ -34,6 +34,8 @@ const Main = () => {
   const mouseOverHandler = ()=>{
     var ele = document.getElementById("no");
 
+    alert("Dimag thik hai??");
+
     const maxWidth = window.innerWidth - ele.offsetWidth;
     const maxHeight = window.innerHeight - ele.offsetHeight;
 
@@ -47,9 +49,9 @@ const Main = () => {
 
   return (
     <>
-    <div className = "newDiv" id ="newDiv">Yeeeeeeeeeeeee!!!</div>
+    <div className = "newDiv" id ="newDiv">Pata Tha Hmko!!!</div>
         <div className="container">
-        <h3 className='question'>Mai Pizza manga lu?</h3>
+        <h3 className='question'>Do you love me?</h3>
           <div className="image-container">
           <img id = "img" src="/cute.gif" alt="imagesss" /> 
           </div>
